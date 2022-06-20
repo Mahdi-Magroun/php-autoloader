@@ -28,7 +28,7 @@ but you can only load classes that have the same name as their file .
 
 ####  
 
-that's it for the configuration you only need specifies directories where your classes are .
+that's it for the configuration you only need to specifie directories where your classes are .
 
 
 
