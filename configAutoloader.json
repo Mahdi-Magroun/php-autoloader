@@ -1,0 +1,9 @@
+{
+    "autoloader":{
+        "paths":{
+
+        "path1":"classes/"
+        ,"path2": "someOtherClasses/"
+    }
+    }
+}
